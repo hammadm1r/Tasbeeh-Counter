@@ -1,0 +1,50 @@
+.screen{
+        background-color: rgb(85, 130, 98);
+        height: 100px;
+        width: 200px;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        align-content: center;
+        text-align: center;
+        vertical-align: middle;
+        align-content: center;
+        padding-top: 5px;
+        color: white;
+        margin: auto;
+      }
+      .myBtn{
+        background-color: rgb(85, 130, 98);
+        color: white;
+        height: 100px;
+        width: 200px;
+        font-size: xx-large;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .myBtn2{
+        background-color: rgb(222, 46, 46);
+        color: white;
+        height: 100px;
+        width: 100px;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .center {
+        margin: auto;
+        padding: 10px;
+        text-align: center;
+      }
+      .Heading{
+        color: rgb(0, 0, 0);
+        font-size:xx-large;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .Heading2 {
+        color: rgb(0, 0, 0);
+        font-size:larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
